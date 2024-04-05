@@ -1,6 +1,7 @@
 # Cut-Urumbu 🐜🍰
 
-Cut-Urumbu is a Streamlit app for controlling cake cutting machines using Arduino. With this app, users can input the number of cake slices, adjust the speed of the cutting motors, and set the height of the cake for precise cutting. Additionally, it provides a feature for endless rotation of the cake to ensure even distribution of icing or decorations.
+Cut-Urumbu is a Streamlit app for controlling cake cutting machines using [Urumbu](https://gitlab.cba.mit.edu/neilg/urumbu)
+. With this app, users can input the number of cake slices, adjust the speed of the cutting motors, and set the height of the cake for precise cutting. Additionally, it provides a feature for endless rotation of the cake to ensure even distribution of icing or decorations.
 
 ## Features
 
